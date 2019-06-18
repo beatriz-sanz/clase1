@@ -1,3 +1,5 @@
 Prueba de archivo de texto
 Cambio
 Segundo cambio para probar push-pull
+
+Cambio desde fichero local una vez creada la rama
