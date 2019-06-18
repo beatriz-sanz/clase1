@@ -4,3 +4,5 @@ Segundo cambio para probar push-pull
 
 Cambio desde fichero local una vez creada la rama
 Segundo cambio
+
+Prueba desde rama branch_prueba, precisamente después de haber trabajado con la rama master
