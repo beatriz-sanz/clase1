@@ -6,3 +6,5 @@ Cambio desde fichero local una vez creada la rama
 Segundo cambio
 Edito archivo desde rama master
 Resuelvo conflicto seleccionando el cambio de rama master
+
+Nuevo ejemplo de conflicto. Edito en master
