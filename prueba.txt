@@ -6,3 +6,4 @@ Cambio desde fichero local una vez creada la rama
 Segundo cambio
 
 Prueba desde rama branch_prueba, precisamente después de haber trabajado con la rama master
+Otro cambio en branch_prueba para crear conflicto
